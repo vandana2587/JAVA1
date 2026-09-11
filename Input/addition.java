@@ -1,4 +1,4 @@
-
+package Input;
 import java.util.*;
 
 public class addition {
